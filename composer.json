@@ -3,7 +3,7 @@
     "description": "Allows configuring the maximum number of items in wishlist",
     "license": "MIT",
     "require": {
-        "magento/module-wishlist": "101.2.*",
+        "magento/module-wishlist": "*",
         "magento/magento-composer-installer": "*",
         "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
     },
